@@ -1,0 +1,11 @@
+streamlit>=1.40
+pypdf>=5.0
+pdfplumber>=0.11
+pypdfium2>=4.30
+reportlab>=4.1
+Pillow>=10.0
+pandas>=2.0
+openpyxl>=3.1
+python-docx>=1.0
+uharfbuzz>=0.39      # correct shaping for Telugu/Hindi/Tamil/Thai text
+pytesseract>=0.3.10   # optional: OCR (also needs the Tesseract binary)
